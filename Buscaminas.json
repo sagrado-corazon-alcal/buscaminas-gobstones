@@ -20,8 +20,8 @@
     }
   },
   "attire": {
-    "active": null,
-    "visible": false,
+    "active": "Buscaminas",
+    "visible": true,
     "user_permissions": {
       "can_toggle_visibility": true
     }
