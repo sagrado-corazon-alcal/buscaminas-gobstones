@@ -2,11 +2,9 @@
 
 ### CONTROLES
 
-| | |
-|-|-|
-|<kbd>Enter</kbd>|Destapar mina|
-|<kbd>Espacio</kbd>|Poner/quitar bandera|
-|<kbd>Flechas</kbd>|Navegar por el tablero|
+* <kbd>Espacio</kbd>    Destapar mina.
+* <kbd>Enter</kbd>      Poner/quitar bandera.
+* <kbd>Flechas</kbd>    Navegar por el tablero.
 
 ### CRÉDITOS
 
