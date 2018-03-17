@@ -295,7 +295,7 @@ procedure SacarTodas(color){
 }
 
 procedure Boom() {
-	THROW_ERROR("Perdiste...")
+	BOOM("Perdiste...")
 }
 
 
